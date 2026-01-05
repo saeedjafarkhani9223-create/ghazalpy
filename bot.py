@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "8060008552:AAHRxckpO3oUG_9YXIUVSX91Sq2rmjoxHtQ"
+TOKEN = "8060008552:AAG4AR4rlL74boMxIFFE6QdvJvClBv2ckYo"
 SUPPORT_ID = "@GhazalCandle"
 
 # ---------- START ----------
